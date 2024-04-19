@@ -1,6 +1,12 @@
 ## Presentation de Git 
 https://docs.google.com/presentation/d/1vfsG__2-T7xJYGKFs9HfPKmaoMN1Je0V0h7gLyiY1AU/edit?usp=sharing 
 
+## Pré Condition
+These steps assume that you have installed git locally, that you have created a GitHub account, and have added your local ssh key to it. 
+
+## Fork a Repo
+
+
 Add a local project to your git :
 
 - go to your project on a terminal.
