@@ -1,8 +1,7 @@
 ## Presentation de Git 
 https://docs.google.com/presentation/d/1vfsG__2-T7xJYGKFs9HfPKmaoMN1Je0V0h7gLyiY1AU/edit?usp=sharing 
 
-## Pré Condition
-These steps assume that you have installed git locally, that you have created a GitHub account, and have added your local ssh key to it. 
+## Pré ConditionThese steps assume that you [have installed git locally](https://www.atlassian.com/fr/git/tutorials/install-git), that you [have created a GitHub account](https://github.com/join), and [have added your local ssh key](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account) to it.
 
 ## Fork a Repo
 
