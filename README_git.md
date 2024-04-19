@@ -1,3 +1,6 @@
+## Presentation de Git 
+https://docs.google.com/presentation/d/1vfsG__2-T7xJYGKFs9HfPKmaoMN1Je0V0h7gLyiY1AU/edit?usp=sharing 
+
 Add a local project to your git :
 
 - go to your project on a terminal.
