@@ -1,7 +1,7 @@
-## Presentation de Git 
+# Presentation de Git 
 https://docs.google.com/presentation/d/1vfsG__2-T7xJYGKFs9HfPKmaoMN1Je0V0h7gLyiY1AU/edit?usp=sharing 
 
-## Pré Condition
+# Pré Condition
 These steps assume that you [have installed git locally](https://www.atlassian.com/fr/git/tutorials/install-git), that you [have created a GitHub account](https://github.com/join), and [have added your local ssh key](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account) to it.
 
 # Utilisations 
@@ -14,8 +14,9 @@ These steps assume that you [have installed git locally](https://www.atlassian.c
 ### Clone your forked repo locally
 - On a terminal : `git clone` ssh ou http path
 
-### Link your fork project to his distant repo
+### Link a project
 - Add the original project as a distant repo. `git remote add upstream` original path'repo
+- Add local project on github. `git remote add origin` git path'repo
 
 ### Branch 
 - See all the branch `git branch`
@@ -34,18 +35,17 @@ These steps assume that you [have installed git locally](https://www.atlassian.c
 ### Pull Request (PR)
 Once the PR is (squashed and) merged, don't forget to update your local repo (`git checkout master && git pull upstream master`) and your distant repo (`git push origin master`).
 
+# Contexte
 
-Add a local project to your git :
+### Add a local project to your git :
 
-- go to your project on a terminal.
-- git init -b “mainBranch” ⇒ init your main branch.
-- do a “Commit”.
-- go on Github and create a new repository.
-- recover URL of your git.
-- go on your terminal.
-- git remote add origin “URL”. ⇒ bond
-- git remote -v ⇒ check the URL
-- git push -u origin main
+- Go to your project on a terminal
+- Init your main branch
+- Commit
+- On Github, create a new repository
+- Recover URL of your git
+- On your terminal, add local project on github command
+- Push
 
 Commit : 
 
