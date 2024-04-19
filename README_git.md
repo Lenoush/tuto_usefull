@@ -10,7 +10,7 @@ These steps assume that you [have installed git locally](https://www.atlassian.c
 - Go on the repo you want to fork
 - Use the fork button in the top right corner
 - Now when you go on your repository, you will see the fork repo
-- 
+
 ### Clone your forked repo locally
 - On a terminal : `git clone` ssh ou http path
 
