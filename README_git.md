@@ -4,15 +4,15 @@ https://docs.google.com/presentation/d/1vfsG__2-T7xJYGKFs9HfPKmaoMN1Je0V0h7gLyiY
 ## Pré Condition
 These steps assume that you [have installed git locally](https://www.atlassian.com/fr/git/tutorials/install-git), that you [have created a GitHub account](https://github.com/join), and [have added your local ssh key](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account) to it.
 
-### Utilisation 
+# Utilisation 
 
 ## Fork
-# Fork a Repo
+### Fork a Repo
 - Go on the repo you want to fork
 - Use the fork button in the top right corner
 - Now when you go on your repository, you will see the fork repo
 - 
-# Clone your forked repo locally
+### Clone your forked repo locally
 - On a terminal : `git clone git@github.com:<your-github-handle>/git-tuto.git`
 
 3. Add the original project as a distant repo. `git remote add upstream https://github.com/zaccharieramzi/git-tuto.git`
